@@ -1,15 +1,18 @@
 .hero {
-    padding: 74px 16px 0;
+    padding: 74px 16px 88px;
     &__contact {
         border-radius: 64px;
         color: #fff;
         background: $lightBlue;
         display: inline-block;
-        padding: 4px 24px 24px;
+        padding: 4px 24px;
         font-weight: bold;
         font-size: 20px;
         line-height: 40px;
         text-decoration: none;
+    }
+    &__description {
+        text-align: center;
     }
     &__image{
         box-sizing: content-box;
