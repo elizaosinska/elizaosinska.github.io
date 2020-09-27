@@ -69,6 +69,9 @@
         @media (min-width: $desktop) {
             font-size: 32px;
             line-height: 40px;
+            .special {
+                color: #1070ca;
+            }
         }
     }
     &__hello{

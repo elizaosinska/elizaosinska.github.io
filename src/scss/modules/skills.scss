@@ -8,6 +8,7 @@
             grid-template-columns: 1fr 1fr 1fr; 
             max-width: 1184px;
             margin: 0 auto;
+        }
     }
     &__header {
         font-weight: bold;
@@ -15,9 +16,7 @@
         line-height: 48px;
         text-align: center;
         margin: 0 0 64px;
-    }
-    
-        @media (min-width: $desktop) {
+            @media (min-width: $desktop) {
             font-style: normal;
             font-size: 48px;
             line-height: 56px;
