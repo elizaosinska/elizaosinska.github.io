@@ -1,4 +1,4 @@
-![cover](![cover](./public/Eli_rm.png)
+![cover](./public/Eli_rm.png)
 
 # Website 
 
