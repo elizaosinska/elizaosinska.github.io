@@ -1,12 +1,16 @@
-![cover](https://cotenfrontend.pl/img/cover.png)
+![cover](https://elizaosinska.github.io/Eliza-Osinska.github.io/)
 
-# WTF Webpack Starter Kit 
+# Website 
 
-Simple toolkit for your static websites development.
+My simple portfolio website.
 
-## How to use it?
+## Tools
 
-Click on `Use this template` button to generate a new repository based on this starter kit. After that clone it to your computer, go to the project directory in console and type `npm install`.
+- WTF Webpack starterkit
+- HTML5 + CSS3 + JS
+- Github API
+- CSS Grid, Flexbox
+- BEM
 
 ## Available scripts
 
@@ -15,4 +19,3 @@ Click on `Use this template` button to generate a new repository based on this s
 `npm run build` - runs build process for production
 
 `npm run publish` - runs build process and publish the page using `gh-pages` branch
-
