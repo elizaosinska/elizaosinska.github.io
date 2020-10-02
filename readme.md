@@ -1,4 +1,4 @@
-![cover](https://elizaosinska.github.io/Eliza-Osinska.github.io/)
+![cover](![cover](./public/Eli_rm.png)
 
 # Website 
 
