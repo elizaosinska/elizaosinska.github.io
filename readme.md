@@ -1,4 +1,6 @@
-![cover](../public/Eli_rm.png)
+=======
+![cover](./public/Eli_rm.png)
+>>>>>>> bca9d30d5aa4d5004b5a6eb27fab0625db13a4ae
 
 # Website 
 
@@ -19,4 +21,3 @@ My simple portfolio website.
 `npm run build` - runs build process for production
 
 `npm run publish` - runs build process and publish the page using `gh-pages` branch
-
